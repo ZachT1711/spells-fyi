@@ -15,7 +15,7 @@
     "moment": "^2.24.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "4.0.0",
     "subscriptions-transport-ws": "^0.9.16"
   },
   "scripts": {
